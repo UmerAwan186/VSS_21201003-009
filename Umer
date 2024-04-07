@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Umer - Biography</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    .header {
+      background-color: #007bff;
+      color: #fff;
+      text-align: center;
+      padding: 20px 0;
+    }
+    .logo {
+      max-width: 100px;
+    }
+    .bio {
+      max-width: 600px;
+      margin: 20px auto;
+      padding: 0 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <img src="uskt_logo.png" alt="USKT Logo" class="logo">
+    <h1>Umer</h1>
+  </div>
+  <div class="bio">
+    <h2>Biography</h2>
+    <p>
+      Umer is a talented individual with a passion for technology and creativity. He has a background in computer science and enjoys exploring new ideas in software development and artificial intelligence.
+    </p>
+    <p>
+      In his free time, Umer loves to engage in outdoor activities such as hiking and cycling. He also enjoys reading books on philosophy and science fiction.
+    </p>
+    <p>
+      Feel free to reach out to Umer if you have any questions or just want to chat about technology and innovation!
+    </p>
+  </div>
+</body>
+</html>
